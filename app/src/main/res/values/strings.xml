@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Soccer Predictor</string>
+    <string name="checkNetStr">Check your Internet and Try Again.</string>
+    <string name="info_about_app">About App</string>
+    <string name="appDetails">This is an App that predicts the Home and Away winning percentage
+        of each team in English Premier League using their data for the last decade.
+    \n\nThe model is developed using XgBoost library.
+    \n\nApp developed by :\n
+    Moideen Nazaif V M\n
+    Nelisha Najeeb\n
+    Rizwan T A\n
+    Sarath Lal\n
+    Shifa Mohammed</string>
+    <string name="teamPerc">Team Percentages</string>
+    <string name="index">index</string>
+    <string name="team_name_str">TEAM_NAME</string>
+    <string name="winning_percentage">Winning Percentage</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99303585952",
+    "firebase_url": "https://soccerproject-9bc00.firebaseio.com",
+    "project_id": "soccerproject-9bc00",
+    "storage_bucket": "soccerproject-9bc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99303585952:android:d54ea3c02c9666ac",
+        "android_client_info": {
+          "package_name": "com.example.android.projtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99303585952-l51lkscg25q43kaqikurn37nvtrlr2l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.projtest",
+            "certificate_hash": "1cac35856660e22744ea72fbbb574ce9a1155811"
+          }
+        },
+        {
+          "client_id": "99303585952-h3kkih11mcj32jsr4b3345vd15s01s01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uMkoMaRJ4SCFtEUjfyXuYYbo4peemwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99303585952-h3kkih11mcj32jsr4b3345vd15s01s01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
